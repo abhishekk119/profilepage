@@ -1,0 +1,56 @@
+body{
+    background: #f0f2f5
+}
+.name{
+    
+    color: #4267B2;
+    font-family:Helvetica, Arial, sans-serif;
+    text-align: center;
+}
+h2{
+    
+    font-family: 'Times New Roman', Times, serif;
+    color: #4267B2;
+    font-family:Helvetica, Arial, sans-serif;
+    
+}
+.container{
+    
+    border:0px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+    color: rgb(67, 66, 66);
+    
+}
+.btn {
+    text-align: center;
+    margin: 10px;
+}
+#b{
+    background-color: #f0f2f5;
+    border: 0px solid;
+    border-radius: 5px;
+    cursor: pointer;
+    color: rgb(160, 160, 160);
+    font-weight: bold;
+}
+#b:hover {background-color: #646464}
+#img{
+    border-radius: 50%;
+}
+#photos{
+    border:0px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 15px;
+    width: 50%;
+    margin: auto;
+}
+#picarea{
+    margin: auto;
+    padding: 50px;
+    
+}
